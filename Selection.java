@@ -23,7 +23,7 @@ public class Selection {
 				}
 				
 			}
-			System.out.println("before sorting the arry:"+arr);
+		
 		}
 		System.out.println("after sorting the array");
 		for (int i = 0; i < size; i++) {
